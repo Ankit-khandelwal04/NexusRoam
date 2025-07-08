@@ -69,46 +69,53 @@ Build NexusRoam from the source and install dependencies:
 
 ```bash
 git clone https://github.com/ankit-khandelwal04/NexusRoam
-```` ``` ````
+``` 
 
 2. Navigate to the project directory:
 
-bash
+```bash
 cd NexusRoam
+```
 
 3. Install dependencies:
 
 Using maven:
 
-bash
+```bash
 mvn install
+```
 
 Using npm:
 
-bash
+```bash
 npm install
+```
 
 4. Run the project:
 
 Using maven:
 
-bash
+```bash
 mvn exec:java
+```
 
 Using npm:
 
-bash
+```bash
 npm start
+```
 
 5. Run tests:
 NexusRoam uses the (test_framework) test framework.
 
 Using maven:
 
-bash
+```bash
 mvn test
+```
 
 Using npm:
 
-bash
+```bash
 npm test
+```
