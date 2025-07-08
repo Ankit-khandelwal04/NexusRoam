@@ -69,6 +69,7 @@ Build NexusRoam from the source and install dependencies:
 
 ```bash
 git clone https://github.com/ankit-khandelwal04/NexusRoam
+```` ``` ````
 
 2. Navigate to the project directory:
 
