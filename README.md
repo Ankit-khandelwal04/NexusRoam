@@ -52,7 +52,7 @@
 
 ## Getting Started
 
-## 📥 Prerequisites
+### 📥 Prerequisites
 Before running NexusRoam, ensure you have the following installed:
 
 | Requirement       | Recommended Version | Purpose                           |
@@ -95,7 +95,7 @@ Using npm:
 npm install
 ```
 
-4. Run the project:
+### Usage:
 
 Using maven:
 
@@ -109,7 +109,7 @@ Using npm:
 npm start
 ```
 
-5. Run tests:
+### Testing:
 NexusRoam uses the (test_framework) test framework.
 
 Using maven:
