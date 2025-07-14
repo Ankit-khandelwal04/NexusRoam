@@ -52,12 +52,16 @@
 
 ## Getting Started
 
-### Prerequisites
+## 📥 Prerequisites
+Before running NexusRoam, ensure you have the following installed:
 
-This project requires the following dependencies:
-
-- **Programming Language**: TypeScript
-- **Package Manager**: Maven, NPM
+| Requirement       | Recommended Version | Purpose                           |
+| ----------------- | ------------------- | --------------------------------- |
+| **Java**          | 17+                 | Backend (Spring Boot)             |
+| **TypeScript**    | Latest (4.x+)       | Frontend Type Safety              |
+| **Node.js & NPM** | Node 18+, NPM 9+    | Package Management / Frontend Dev |
+| **Maven**         | 3.8+                | Java Project Build & Dependency   |
+| **Git**           | Latest              | Clone & Version Control           |
 
 ---
 
